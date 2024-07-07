@@ -1,0 +1,34 @@
+{
+  "Name": "Prafful Bisht",
+  "Education": {
+    "Degree": "B.Tech in Computer Science and Engineering",
+    "Institution": "SRM University",
+    "GPA": "9.5/10"
+  },
+  "Skills": {
+    "Programming Languages": ["Python", "C++", "Java"],
+    "Technologies": ["OpenCV", "TensorFlow", "Flask", "React"]
+  },
+  "Projects": [
+    {
+      "Title": "Dumbbell Curl Counter",
+      "Description": "Using computer vision for hand detection, this application counts repetitions of dumbbell curls.",
+      "Technologies": ["Python", "OpenCV", "Flask"],
+      "GitHub": "https://github.com/iampraffulbisht/Rep_counter"
+    },
+    {
+      "Title": "Hand Gesture Volume Control",
+      "Description": "Control system volume using hand gestures captured through a webcam.",
+      "Technologies": ["Python", "OpenCV", "TensorFlow"],
+      "GitHub": "https://github.com/iampraffulbisht/Hand-Volume-control"
+    }
+  ],
+  "Interests": {
+    "Technology": ["AI", "Machine Learning", "Computer Vision"],
+    "Hobbies": ["Photography", "Gaming", "Music"]
+  },
+  "Contact": {
+    "Email": "prafful@example.com",
+    "LinkedIn": "https://www.linkedin.com/in/prafful-bisht"
+  }
+}
